@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/divith-shetty">
     <img src="https://img.shields.io/badge/LinkedIn-divith--shetty-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://divshettyy.github.io/Dorks/Google.html">
-    <img src="https://img.shields.io/badge/Dorks-live%20demo-brightgreen?style=flat&logo=googlechrome&logoColor=white" alt="Dorks live demo" />
-  </a>
   <img src="https://img.shields.io/badge/focus-web%20app%20pentesting-critical?style=flat" alt="Focus" />
 </p>
 
@@ -28,7 +25,6 @@
 | Project | What it is |
 |---|---|
 | [**pentest-toolkit**](https://github.com/divshettyy/pentest-toolkit) | 77 single-purpose Python/Shell offensive security scripts (recon, web, API, cloud, mobile) plus `hakuza/` — an AI-augmented CLI running full engagements end to end: recon → scan → findings DB → AI triage → report. |
-| [**Dorks**](https://github.com/divshettyy/Dorks) | Curated Google & Shodan dork cheat-sheets for recon/OSINT, served live via [GitHub Pages](https://divshettyy.github.io/Dorks/Google.html) with a built-in domain/keyword search helper. |
 
 ### Tech
 
